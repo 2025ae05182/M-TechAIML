@@ -1,0 +1,19 @@
+name: M-Tech-AIML-2025
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - tensorflow
+  - keras
+  - nltk
+  - spacy
+  - seaborn
+  - pip
+  - pip:
+      - jupyterlab
+      - ipywidgets
